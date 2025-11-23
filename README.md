@@ -32,15 +32,23 @@ These objectives align with Phase A: Business Understanding.
 ### 🔎 Methodology
 
 The project follows a full data mining lifecycle including:
+
 ✔ Data Understanding
+
 ✔ Data Preparation
+
 ✔ Modeling & Evaluation
 
 Core techniques applied:
+
 1️⃣ **Hierarchical Clustering** — Dendrogram-based segmentation
+
 2️⃣ **K-Medoids Clustering** — Robust against outliers
+
 3️⃣ **Fuzzy Logic Clustering** — Probabilistic membership for overlapping customer groups
+
 4️⃣ **Genetic Algorithm** — Optimize number of clusters (k)
+
 
 All methods are compared using cluster validation metrics such as silhouette score. 
 
